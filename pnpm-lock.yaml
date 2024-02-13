@@ -65,8 +65,8 @@ devDependencies:
     specifier: 18.2.18
     version: 18.2.18
   '@vercel/style-guide':
-    specifier: ^5.0.1
-    version: 5.1.0(eslint@8.56.0)(prettier@3.2.2)(typescript@5.3.3)
+    specifier: ^5.2.0
+    version: 5.2.0(eslint@8.56.0)(prettier@3.2.2)(typescript@5.3.3)
   dotenv:
     specifier: ^16.3.1
     version: 16.3.1
@@ -877,8 +877,8 @@ packages:
       ws: 8.14.2(bufferutil@4.0.8)(utf-8-validate@6.0.3)
     dev: false
 
-  /@vercel/style-guide@5.1.0(eslint@8.56.0)(prettier@3.2.2)(typescript@5.3.3):
-    resolution: {integrity: sha512-L9lWYePIycm7vIOjDLj+mmMdmmPkW3/brHjgq+nJdvMOrL7Hdk/19w8X583HYSk0vWsq494o5Qkh6x5+uW7ljg==}
+  /@vercel/style-guide@5.2.0(eslint@8.56.0)(prettier@3.2.2)(typescript@5.3.3):
+    resolution: {integrity: sha512-fNSKEaZvSkiBoF6XEefs8CcgAV9K9e+MbcsDZjUsktHycKdA0jvjAzQi1W/FzLS+Nr5zZ6oejCwq/97dHUKe0g==}
     engines: {node: '>=16'}
     peerDependencies:
       '@next/eslint-plugin-next': '>=12.3.0 <15'
